@@ -1,7 +1,8 @@
 # Project description 📜
-<h1 align='right'>Android APP automation using **Appium &amp; Selenium**.</h1>
 
-![Android APP automation using **Appium &amp; Selenium**.](https://github.com/d99ss/ZNCeps/assets/24706768/b8497e83-69ad-42b5-8295-ad0d26ffaa7e)
+Android APP automation using **Appium &amp; Selenium**
+
+![](https://github.com/d99ss/ZNCeps/assets/24706768/b8497e83-69ad-42b5-8295-ad0d26ffaa7e)
 
 The main goal of this project was to check whether the app delivery *(Zee.Now)* services a specific zip code, in this case, zip codes of the City of São Paulo. 
 The idea came about when a lot of people had problems buying just because their zip codes weren't serviced, when I started to analyze I realized a lot of zip codes were within the area of delivery, but for some reason, they weren't being serviced. that's why I decided to build this script to test each zip code individually to test whether that zip code is serviced or not. 
