@@ -20,7 +20,7 @@ Just running the requirements.txt file you can install all the required librarie
 Apart from the required libraries, you **must have the Android Studio** to emulate the app in a Virtual Device to test the app. 
 
 ## Resources ☕ 
-The following resources can be useful if you don't have familiarity with Automation
+The following resources can be useful if you don't have familiarity with Automation.
  - [Appium GitHub guide](https://github.com/clarabez/appium)
  - [Appium Website](https://appium.io/docs/en/2.1/)
  - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4m_mNywnlThdLkd5YLBdBH_UtAF7_0WE_iXmyNCnqwByrqWKjTF9BMaApc0EALw_wcB&gclsrc=aw.ds) 
