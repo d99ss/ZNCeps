@@ -1,8 +1,16 @@
-# Project description 📜
+![image](https://github.com/d99ss/ZNCeps/assets/24706768/4537eddd-bcf6-457c-8389-f76e15fdc8f9)# Project description 📜
 Android APP automation using **Appium &amp; Selenium**.
 The main goal of this project was to check whether the app delivery *(Zee.Now)* services a specific zip code, in this case, zip codes of the City of São Paulo. 
-The idea came about when a lot of people had problems buying just because their zip codes weren't serviced, when I started to analyze I realized a lot of zip codes were within the area of delivery, but for some reason, they weren't being serviced. 
-- 
+The idea came about when a lot of people had problems buying just because their zip codes weren't serviced, when I started to analyze I realized a lot of zip codes were within the area of delivery, but for some reason, they weren't being serviced.
+
+- Examples
+  - Zipcodes like [05367040
+05367050
+05367060
+05367070
+05367120
+![image](https://github.com/d99ss/ZNCeps/assets/24706768/faa3e735-a8a5-4c51-be16-70c5ea97f7b8)
+]
 
 
 ## Templates de perfil ☕️
