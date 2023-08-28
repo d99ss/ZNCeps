@@ -5,12 +5,9 @@ The idea came about when a lot of people had problems buying just because their 
 
   -![image](https://github.com/d99ss/ZNCeps/assets/24706768/254c52e2-761d-4d3c-b52e-8cb4a73ddb07)
 
-The full explanation you can see on my [Medium post](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+The full explanation is on my [Medium post](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 ).
-Basically using a library called Appium and the Android Studio, I was able to install the app into a VDM to test and emulate the real process of putting each cep individually. 
-
-
-
+Basically using a library called Appium and the Android Studio, I was able to install the app into a VDM to test and emulate the real process of putting each cep individually to test wether that zip code is serviced or not. 
 
 ## Library ☕️
 
@@ -20,19 +17,3 @@ Basically using a library called Appium and the Android Studio, I was able to in
 
 Just running the requirements.txt file you can install all the required libraries/dependencies. 
 Apart from the required libraries, you **must have the Android Studio** to emulate the app in a Virtual Device to test the app. 
-
-## Templates de repositório 🎉
-
-Documente seus projetos com nossos exemplos de **[templates de repositório](https://github.com/iuricode/readme-template/tree/main/repositorio)** incríveis. Esses templates abrangem diversas seções essenciais, incluindo descrição, instalação, uso, contribuição e licença.
-
-## Status e badges shields 🦄
-
-Aperfeiçoe o seu perfil e os seus repositórios adicionando **[cards de status](https://github.com/iuricode/readme-template/tree/main/cards-status/readme.md)** e **[badges shields](https://github.com/iuricode/readme-template/tree/main/badges-shields/readme.md)** ao seu readme. Esses cards proporcionam uma visão aprimorada e detalhada das informações relevantes, tornando o seu perfil e os seus projetos ainda mais impressionantes.
-
-## Contribuição ✨
-
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/readme-template/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/readme-template/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis! 
-
-## Aprenda desenvolvimento frontend ❤️
-
-Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu ebook "**[eFront - Estudando frontend do zero](https://iuricode.com/efront)**" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
