@@ -1,4 +1,5 @@
 # Project description 📜
+<h1 align='right'>Android APP automation using **Appium &amp; Selenium**.</h1>
 
 ![Android APP automation using **Appium &amp; Selenium**.](https://github.com/d99ss/ZNCeps/assets/24706768/b8497e83-69ad-42b5-8295-ad0d26ffaa7e)
 
