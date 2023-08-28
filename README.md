@@ -1,6 +1,8 @@
-# Readme ZNCeps 📜
-Android APP automation using Appium &amp; Selenium 
-Bem-vindo(a) ao **Readme Template**! Aqui você encontrará uma variedade de modelos de readme para usar em seus repositórios e perfil no GitHub. Explore nossa coleção de templates e encontre aquele que melhor se adequa ao seu projeto. Comece agora mesmo e deixe o seu readme brilhar!
+# Project description 📜
+Android APP automation using **Appium &amp; Selenium**.
+The main goal of this project was to check whether the app delivery (Zee.Now) services a specific zip code, in this case, zip codes of the City of São Paulo. 
+I mainly used 
+
 
 ## Templates de perfil ☕️
 
