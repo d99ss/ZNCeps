@@ -1,7 +1,8 @@
 # Project description 📜
 Android APP automation using **Appium &amp; Selenium**.
-The main goal of this project was to check whether the app delivery (Zee.Now) services a specific zip code, in this case, zip codes of the City of São Paulo. 
-I mainly used 
+The main goal of this project was to check whether the app delivery *(Zee.Now)* services a specific zip code, in this case, zip codes of the City of São Paulo. 
+The idea came about when a lot of people had problems buying just because their zip codes weren't serviced, when I started to analyze I realized a lot of zip codes were within the area of delivery, but for some reason, they weren't being serviced. 
+- 
 
 
 ## Templates de perfil ☕️
