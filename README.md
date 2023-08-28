@@ -1,26 +1,14 @@
-![image](https://github.com/d99ss/ZNCeps/assets/24706768/4537eddd-bcf6-457c-8389-f76e15fdc8f9)# Project description 📜
+# Project description 📜
 Android APP automation using **Appium &amp; Selenium**.
 The main goal of this project was to check whether the app delivery *(Zee.Now)* services a specific zip code, in this case, zip codes of the City of São Paulo. 
-The idea came about when a lot of people had problems buying just because their zip codes weren't serviced, when I started to analyze I realized a lot of zip codes were within the area of delivery, but for some reason, they weren't being serviced. I made two hypotheses for what the problem might be. 
+The idea came about when a lot of people had problems buying just because their zip codes weren't serviced, when I started to analyze I realized a lot of zip codes were within the area of delivery, but for some reason, they weren't being serviced. I came to the conclusion that zipcodes like the ones below aren't serviced because in the *Correios* database they're listed with other names, Even though the neighborhood is Rio Pequeno and are clearly serviced the ceps below aren't just because they're listed with different names.
 
-- Small neighborhoods within larger neighborhoods
-  - Zipcodes like [CEP	Endereço	Bairro	Cidade	Estado	Endereço completo
-05367040	Rua Professor Josué Callander dos Reis	Jardim Santos Dumont	São Paulo	SP	Rua Professor Josué Callander dos Reis, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367040
-05367050	Avenida Francisco da Matta	Jardim Santos Dumont	São Paulo	SP	Avenida Francisco da Matta, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367050
-05367060	Rua Doutor Raphael de Oliveira Pirajá	Jardim Santos Dumont	São Paulo	SP	Rua Doutor Raphael de Oliveira Pirajá, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367060
-05367070	Rua Ester Hegedus	Jardim Santos Dumont	São Paulo	SP	Rua Ester Hegedus, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367070
-05367120	Rua Carlos Chambelland	Jardim Santos Dumont	São Paulo	SP	Rua Carlos Chambelland, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367120
-05367130	Rua Tereza DAmico	Jardim Santos Dumont	São Paulo	SP	Rua Tereza DAmico, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367130
-05367150	Rua Elizabeth Constantino Horii	Jardim Santos Dumont	São Paulo	SP	Rua Elizabeth Constantino Horii, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367150
-05367170	Rua Stéfano Maderno	Jardim Santos Dumont	São Paulo	SP	Rua Stéfano Maderno, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367170
-05367190	Rua Tommaso Manzuoli	Jardim Santos Dumont	São Paulo	SP	Rua Tommaso Manzuoli, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367190
-05367200	Rua Gustavo Richard	Jardim Santos Dumont	São Paulo	SP	Rua Gustavo Richard, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367200
-05367220	Rua Jean Gonzalez	Jardim Santos Dumont	São Paulo	SP	Rua Jean Gonzalez, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367220
-05367230	Rua Jorge Abib	Jardim Santos Dumont	São Paulo	SP	Rua Jorge Abib, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367230
-05367280	Rua Guairape	Jardim Santos Dumont	São Paulo	SP	Rua Guairape, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367280
-05367300	Rua Francisco Negreiros	Jardim Santos Dumont	São Paulo	SP	Rua Francisco Negreiros, Jardim Santos Dumont, São Paulo, São Paulo- CEP 05367300
-![image](https://github.com/d99ss/ZNCeps/assets/24706768/254c52e2-761d-4d3c-b52e-8cb4a73ddb07)
-] weren't being serviced because their zip codes 
+  -![image](https://github.com/d99ss/ZNCeps/assets/24706768/254c52e2-761d-4d3c-b52e-8cb4a73ddb07)
+
+The full explanation you can see on my [Medium post](https://pages.github.com/).
+Basically using a library called Appium and the Android Studio, I was able to install the app into a VDM to test and emulate the real process of putting each cep individually. 
+
+
 
 
 ## Templates de perfil ☕️
