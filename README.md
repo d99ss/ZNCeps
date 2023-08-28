@@ -5,9 +5,9 @@ The idea came about when a lot of people had problems buying just because their 
 
   -![image](https://github.com/d99ss/ZNCeps/assets/24706768/254c52e2-761d-4d3c-b52e-8cb4a73ddb07)
 
-The full explanation is on my [Medium post](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-).
-Basically using a library called Appium and the Android Studio, I was able to install the app into a VDM to test and emulate the real process of putting each cep individually to test wether that zip code is serviced or not. 
+The full explanation is on my *[Medium post](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+)*.
+Basically using a library called Appium and the Android Studio, I was able to install the app into a VDM to test and emulate the real process of putting each cep individually to test whether that zip code is serviced or not. 
 
 ## Library ☕️
 
@@ -17,3 +17,9 @@ Basically using a library called Appium and the Android Studio, I was able to in
 
 Just running the requirements.txt file you can install all the required libraries/dependencies. 
 Apart from the required libraries, you **must have the Android Studio** to emulate the app in a Virtual Device to test the app. 
+
+## Resources 
+The following resources can be useful if you don't have familiarity with Automation
+ - [Appium GitHub guide](https://github.com/clarabez/appium)
+ - [Appium Website](https://appium.io/docs/en/2.1/)
+ - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4m_mNywnlThdLkd5YLBdBH_UtAF7_0WE_iXmyNCnqwByrqWKjTF9BMaApc0EALw_wcB&gclsrc=aw.ds) 
