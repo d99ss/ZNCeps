@@ -31,7 +31,7 @@ Apart from the required libraries, there are two ways to emulate the app:
 The following resources can be useful if you don't have familiarity with Automation.
 I highly recommend reading the first resource, since the setup just to make the app run is highly complicated, tricky, and cumbersome it takes a lot of time to get it up and running.
 
- - [Appium GitHub guide](https://github.com/clarabez/appium)
+ - [Software Automation Appium with Python](https://github.com/clarabez/appium-en)
  - [Appium Website](https://appium.io/docs/en/2.1/)
  - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4m_mNywnlThdLkd5YLBdBH_UtAF7_0WE_iXmyNCnqwByrqWKjTF9BMaApc0EALw_wcB&gclsrc=aw.ds)
  -  [Appium Testing with Real Devices](https://github.com/clarabez/appium)
