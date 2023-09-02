@@ -15,7 +15,8 @@ The full explanation is on my *[Medium post](https://img.shields.io/badge/Medium
 
 ## Library 📚 
 
-- Appium 
+- Appium
+- Selenium 
 - Pandas
 
 Just running the requirements.txt file you can install all the required libraries/dependencies via **__pip install_**. 
