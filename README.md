@@ -34,4 +34,4 @@ I highly recommend reading the first resource, since the setup just to make the 
  - [Software Automation Appium with Python](https://github.com/clarabez/appium-en)
  - [Appium Website](https://appium.io/docs/en/2.1/)
  - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4m_mNywnlThdLkd5YLBdBH_UtAF7_0WE_iXmyNCnqwByrqWKjTF9BMaApc0EALw_wcB&gclsrc=aw.ds)
- -  [Appium Testing with Real Devices](https://github.com/clarabez/appium)
+ -  [Appium Testing with Real Devices](https://docs.saucelabs.com/mobile-apps/automated-testing/appium/real-devices/)
