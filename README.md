@@ -22,8 +22,8 @@ The full explanation is on my *[Medium post](https://img.shields.io/badge/Medium
 Just running the requirements.txt file you can install all the required libraries/dependencies via **__pip install_**. 
 Apart from the required libraries, there are two ways to emulate the app:
 
-    -1 If you have the App's **APK** you **must have the __Android Studio_** to install the APP in a Virtual Device Manager (VDM).
-    -2 You can test the app using a real device.
+    >1 If you have the App's **APK** you **must have the __Android Studio_** to install the APP in a Virtual Device Manager (VDM).
+    >2 You can test the app using a real device.
 
   Both ways work with pros and cons. It's up to you to decide what works best.
 
