@@ -15,17 +15,21 @@ The full explanation is on my *[Medium post](https://img.shields.io/badge/Medium
 
 ## Library 📚 
 
-- Appium
-- Selenium
+- Appium 
 - Pandas
 
 Just running the requirements.txt file you can install all the required libraries/dependencies via **__pip install_**. 
-Apart from the required libraries, you **must have the __Android Studio_** to emulate the app in a Virtual Device.
+Apart from the required libraries, there are two ways to emulate the app:
+ . If you have the App's *__APK__* you **must have the __Android Studio_** to install the APP in a Virtual Device Manager (VDM).
+  . You can test the app using a real device.
+
+  Both ways work with pros and cons. It's up to you to decide what works best.
 
 ## Resources ☕ 
 The following resources can be useful if you don't have familiarity with Automation.
-I highly recommend reading the first resource, since the setup just to make the app run is highly complicated, tricky, and cumbersome it takes a lot of time to set up all the PATH variables to run.
+I highly recommend reading the first resource, since the setup just to make the app run is highly complicated, tricky, and cumbersome it takes a lot of time to get it up and running.
 
  - [Appium GitHub guide](https://github.com/clarabez/appium)
  - [Appium Website](https://appium.io/docs/en/2.1/)
- - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4m_mNywnlThdLkd5YLBdBH_UtAF7_0WE_iXmyNCnqwByrqWKjTF9BMaApc0EALw_wcB&gclsrc=aw.ds) 
+ - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4m_mNywnlThdLkd5YLBdBH_UtAF7_0WE_iXmyNCnqwByrqWKjTF9BMaApc0EALw_wcB&gclsrc=aw.ds)
+ -  [Appium Testing with Real Devices](https://github.com/clarabez/appium)
