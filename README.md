@@ -10,8 +10,7 @@ The idea came about when a lot of people had problems buying just because their 
 Basically using a library called Appium and the Android Studio, I was able to install the app into a VDM to test and emulate the real process of putting each cep.
 I only tested using the zip codes of the City of São Paulo, but you can test from other Brazilian cities where the delivery app operates such as Rio de Janeiro.
 
-The full explanation is on my *[Medium post](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-)*.
+The full explanation is on my *[Medium post](https://medium.com/@mrbettencourt99/automatizando-a-avalia%C3%A7%C3%A3o-de-cobertura-de-ceps-com-appium-e-python-6f6976b355fc)*.
 
 ## Library 📚 
 
